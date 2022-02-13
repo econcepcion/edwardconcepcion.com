@@ -1,0 +1,854 @@
+0000.000 (0) Opened log file at time: Mon, 07 Sep 2020 02:36:30 +0000 on https://edwardconcepcion.com
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.28 WP: 5.5.1 PHP: 7.4.8 (fpm-fcgi, Linux cpanel.gogonzalez-hosting.com 3.10.0-957.5.1.el7.x86_64 #1 SMP Fri Feb 1 14:54:57 UTC 2019 x86_64) MySQL: 5.7.31 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 105.5M | 109M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 27382.5 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.013 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.022 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1599359626, seconds_ago=86564)
+0000.028 (0) Set semaphore last lock (fd) time to 2020-09-07 02:36:30
+0000.031 (0) Semaphore lock (fd) complete
+0000.039 (0) Backup run: resumption=0, nonce=1b9ecc899d6b, file_nonce=1b9ecc899d6b begun at=1599446190 (0s ago), job type=backup
+0000.049 (0) Scheduling a resumption (1) after 300 seconds (1599446490) in case this run gets aborted
+0000.066 (0) Checking if we have a zip executable available
+0000.073 (0) Creation of backups of directories: beginning
+0000.083 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.393 (0) Total entities for the zip file: 2380 directories, 13820 files (0 skipped as non-modified), 173.5 MB
+0001.415 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.426 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.437 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.447 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.458 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.463 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11 MB, 13820 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.362 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 600 files added (on-disk size: 5265 KB)
+0002.372 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 700 files added (on-disk size: 5265 KB)
+0002.382 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 800 files added (on-disk size: 5265 KB)
+0002.392 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 900 files added (on-disk size: 5265 KB)
+0002.402 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1000 files added (on-disk size: 5265 KB)
+0002.406 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.8 MB, 13820 files batched, 501 (1002) added so far); re-opening (prior size: 5265 KB)
+0002.933 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1100 files added (on-disk size: 7834.5 KB)
+0002.942 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1200 files added (on-disk size: 7834.5 KB)
+0002.952 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1300 files added (on-disk size: 7834.5 KB)
+0002.966 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1400 files added (on-disk size: 7834.5 KB)
+0002.980 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1500 files added (on-disk size: 7834.5 KB)
+0002.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 13820 files batched, 501 (1503) added so far); re-opening (prior size: 7834.5 KB)
+0003.412 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1600 files added (on-disk size: 9926.9 KB)
+0003.422 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1700 files added (on-disk size: 9926.9 KB)
+0003.431 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1800 files added (on-disk size: 9926.9 KB)
+0003.441 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 1900 files added (on-disk size: 9926.9 KB)
+0003.454 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2000 files added (on-disk size: 9926.9 KB)
+0003.459 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.5 MB, 13820 files batched, 501 (2004) added so far); re-opening (prior size: 9926.9 KB)
+0004.245 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2100 files added (on-disk size: 13196.1 KB)
+0004.254 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2200 files added (on-disk size: 13196.1 KB)
+0004.265 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2300 files added (on-disk size: 13196.1 KB)
+0004.275 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2400 files added (on-disk size: 13196.1 KB)
+0004.285 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2500 files added (on-disk size: 13196.1 KB)
+0004.289 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9 MB, 13820 files batched, 501 (2505) added so far); re-opening (prior size: 13196.1 KB)
+0005.248 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2600 files added (on-disk size: 16218.4 KB)
+0005.258 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2700 files added (on-disk size: 16218.4 KB)
+0005.269 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2800 files added (on-disk size: 16218.4 KB)
+0005.279 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 2900 files added (on-disk size: 16218.4 KB)
+0005.290 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3000 files added (on-disk size: 16218.4 KB)
+0005.294 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 13820 files batched, 501 (3006) added so far); re-opening (prior size: 16218.4 KB)
+0005.866 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3100 files added (on-disk size: 17853.7 KB)
+0005.876 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3200 files added (on-disk size: 17853.7 KB)
+0005.886 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3300 files added (on-disk size: 17853.7 KB)
+0005.897 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3400 files added (on-disk size: 17853.7 KB)
+0005.907 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3500 files added (on-disk size: 17853.7 KB)
+0005.913 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.8 MB, 13820 files batched, 501 (3507) added so far); re-opening (prior size: 17853.7 KB)
+0006.988 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3600 files added (on-disk size: 20577.2 KB)
+0006.998 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3700 files added (on-disk size: 20577.2 KB)
+0007.008 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3800 files added (on-disk size: 20577.2 KB)
+0007.018 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 3900 files added (on-disk size: 20577.2 KB)
+0007.027 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4000 files added (on-disk size: 20577.2 KB)
+0007.032 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1 MB, 13820 files batched, 501 (4008) added so far); re-opening (prior size: 20577.2 KB)
+0007.314 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4100 files added (on-disk size: 21052.3 KB)
+0007.323 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4200 files added (on-disk size: 21052.3 KB)
+0007.332 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4300 files added (on-disk size: 21052.3 KB)
+0007.342 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4400 files added (on-disk size: 21052.3 KB)
+0007.351 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4500 files added (on-disk size: 21052.3 KB)
+0007.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.1 MB, 13820 files batched, 501 (4509) added so far); re-opening (prior size: 21052.3 KB)
+0007.872 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4600 files added (on-disk size: 22540.9 KB)
+0007.881 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4700 files added (on-disk size: 22540.9 KB)
+0007.891 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4800 files added (on-disk size: 22540.9 KB)
+0007.901 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 4900 files added (on-disk size: 22540.9 KB)
+0007.911 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5000 files added (on-disk size: 22540.9 KB)
+0007.916 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.5 MB, 13820 files batched, 501 (5010) added so far); re-opening (prior size: 22540.9 KB)
+0009.775 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5100 files added (on-disk size: 28036.8 KB)
+0009.786 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5200 files added (on-disk size: 28036.8 KB)
+0009.797 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5300 files added (on-disk size: 28036.8 KB)
+0009.811 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5400 files added (on-disk size: 28036.8 KB)
+0009.826 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5500 files added (on-disk size: 28036.8 KB)
+0009.831 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 13820 files batched, 501 (5511) added so far); re-opening (prior size: 28036.8 KB)
+0010.226 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5600 files added (on-disk size: 28745.2 KB)
+0010.236 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5700 files added (on-disk size: 28745.2 KB)
+0010.247 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5800 files added (on-disk size: 28745.2 KB)
+0010.257 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 5900 files added (on-disk size: 28745.2 KB)
+0010.267 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6000 files added (on-disk size: 28745.2 KB)
+0010.273 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 13820 files batched, 501 (6012) added so far); re-opening (prior size: 28745.2 KB)
+0010.992 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6100 files added (on-disk size: 29810.3 KB)
+0011.002 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6200 files added (on-disk size: 29810.3 KB)
+0011.012 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6300 files added (on-disk size: 29810.3 KB)
+0011.021 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6400 files added (on-disk size: 29810.3 KB)
+0011.034 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6500 files added (on-disk size: 29810.3 KB)
+0011.040 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.3 MB, 13820 files batched, 501 (6513) added so far); re-opening (prior size: 29810.3 KB)
+0012.232 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6600 files added (on-disk size: 32019.5 KB)
+0012.242 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6700 files added (on-disk size: 32019.5 KB)
+0012.253 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6800 files added (on-disk size: 32019.5 KB)
+0012.263 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 6900 files added (on-disk size: 32019.5 KB)
+0012.274 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7000 files added (on-disk size: 32019.5 KB)
+0012.279 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.9 MB, 13820 files batched, 501 (7014) added so far); re-opening (prior size: 32019.5 KB)
+0012.679 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7100 files added (on-disk size: 32955.5 KB)
+0012.689 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7200 files added (on-disk size: 32955.5 KB)
+0012.699 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7300 files added (on-disk size: 32955.5 KB)
+0012.709 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7400 files added (on-disk size: 32955.5 KB)
+0012.719 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7500 files added (on-disk size: 32955.5 KB)
+0012.724 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.4 MB, 13820 files batched, 501 (7515) added so far); re-opening (prior size: 32955.5 KB)
+0013.922 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7600 files added (on-disk size: 38086.1 KB)
+0013.932 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7700 files added (on-disk size: 38086.1 KB)
+0013.942 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7800 files added (on-disk size: 38086.1 KB)
+0013.951 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 7900 files added (on-disk size: 38086.1 KB)
+0013.962 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8000 files added (on-disk size: 38086.1 KB)
+0013.967 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 13820 files batched, 501 (8016) added so far); re-opening (prior size: 38086.1 KB)
+0014.734 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8100 files added (on-disk size: 39620.9 KB)
+0014.744 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8200 files added (on-disk size: 39620.9 KB)
+0014.755 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8300 files added (on-disk size: 39620.9 KB)
+0014.765 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8400 files added (on-disk size: 39620.9 KB)
+0014.776 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8500 files added (on-disk size: 39620.9 KB)
+0014.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.1 MB, 13820 files batched, 501 (8517) added so far); re-opening (prior size: 39620.9 KB)
+0015.163 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8600 files added (on-disk size: 40061.2 KB)
+0015.173 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8700 files added (on-disk size: 40061.2 KB)
+0015.183 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8800 files added (on-disk size: 40061.2 KB)
+0015.192 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 8900 files added (on-disk size: 40061.2 KB)
+0015.202 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9000 files added (on-disk size: 40061.2 KB)
+0015.207 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 MB, 13820 files batched, 501 (9018) added so far); re-opening (prior size: 40061.2 KB)
+0015.896 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9100 files added (on-disk size: 41590.7 KB)
+0015.906 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9200 files added (on-disk size: 41590.7 KB)
+0015.915 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9300 files added (on-disk size: 41590.7 KB)
+0015.924 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9400 files added (on-disk size: 41590.7 KB)
+0015.934 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9500 files added (on-disk size: 41590.7 KB)
+0015.940 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.7 MB, 13820 files batched, 501 (9519) added so far); re-opening (prior size: 41590.7 KB)
+0016.606 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9600 files added (on-disk size: 42821.4 KB)
+0016.617 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9700 files added (on-disk size: 42821.4 KB)
+0016.626 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9800 files added (on-disk size: 42821.4 KB)
+0016.637 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 9900 files added (on-disk size: 42821.4 KB)
+0016.649 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10000 files added (on-disk size: 42821.4 KB)
+0016.654 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 13820 files batched, 501 (10020) added so far); re-opening (prior size: 42821.4 KB)
+0017.049 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10100 files added (on-disk size: 43851.2 KB)
+0017.059 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10200 files added (on-disk size: 43851.2 KB)
+0017.069 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10300 files added (on-disk size: 43851.2 KB)
+0017.078 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10400 files added (on-disk size: 43851.2 KB)
+0017.088 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10500 files added (on-disk size: 43851.2 KB)
+0017.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.1 MB, 13820 files batched, 501 (10521) added so far); re-opening (prior size: 43851.2 KB)
+0017.621 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10600 files added (on-disk size: 45212.5 KB)
+0017.631 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10700 files added (on-disk size: 45212.5 KB)
+0017.643 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10800 files added (on-disk size: 45212.5 KB)
+0017.654 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 10900 files added (on-disk size: 45212.5 KB)
+0017.665 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11000 files added (on-disk size: 45212.5 KB)
+0017.670 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.3 MB, 13820 files batched, 501 (11022) added so far); re-opening (prior size: 45212.5 KB)
+0018.286 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11100 files added (on-disk size: 46195.2 KB)
+0018.296 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11200 files added (on-disk size: 46195.2 KB)
+0018.307 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11300 files added (on-disk size: 46195.2 KB)
+0018.317 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11400 files added (on-disk size: 46195.2 KB)
+0018.330 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11500 files added (on-disk size: 46195.2 KB)
+0018.336 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 13820 files batched, 501 (11523) added so far); re-opening (prior size: 46195.2 KB)
+0018.858 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11600 files added (on-disk size: 47053.7 KB)
+0018.868 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11700 files added (on-disk size: 47053.7 KB)
+0018.878 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11800 files added (on-disk size: 47053.7 KB)
+0018.888 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 11900 files added (on-disk size: 47053.7 KB)
+0018.898 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12000 files added (on-disk size: 47053.7 KB)
+0018.904 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15 MB, 13820 files batched, 501 (12024) added so far); re-opening (prior size: 47053.7 KB)
+0020.726 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12100 files added (on-disk size: 51392.1 KB)
+0020.736 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12200 files added (on-disk size: 51392.1 KB)
+0020.750 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12300 files added (on-disk size: 51392.1 KB)
+0020.761 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12400 files added (on-disk size: 51392.1 KB)
+0020.771 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12500 files added (on-disk size: 51392.1 KB)
+0020.776 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 MB, 13820 files batched, 501 (12525) added so far); re-opening (prior size: 51392.1 KB)
+0021.492 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12600 files added (on-disk size: 52726.4 KB)
+0021.503 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12700 files added (on-disk size: 52726.4 KB)
+0021.513 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12800 files added (on-disk size: 52726.4 KB)
+0021.524 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 12900 files added (on-disk size: 52726.4 KB)
+0021.535 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13000 files added (on-disk size: 52726.4 KB)
+0021.541 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.8 MB, 13820 files batched, 501 (13026) added so far); re-opening (prior size: 52726.4 KB)
+0024.922 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13100 files added (on-disk size: 57042.2 KB)
+0024.931 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13200 files added (on-disk size: 57042.2 KB)
+0024.941 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13300 files added (on-disk size: 57042.2 KB)
+0024.950 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13400 files added (on-disk size: 57042.2 KB)
+0024.960 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13500 files added (on-disk size: 57042.2 KB)
+0024.965 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 13820 files batched, 501 (13527) added so far); re-opening (prior size: 57042.2 KB)
+0025.950 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13600 files added (on-disk size: 59049.3 KB)
+0025.960 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13700 files added (on-disk size: 59049.3 KB)
+0025.971 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip.tmp: 13800 files added (on-disk size: 59049.3 KB)
+0026.971 (0) Created plugins zip (0) - 59925.1 KB in 26.9 s (2229 KB/s) (sha1: 8c8a1c7649be33abfe54e6ae874c913c639382cc, sha256: 79d9c49316e0c970b8782127db0640befb57fc0264dbf3bd87666d50346effa5)
+0026.978 (0) Beginning creation of dump of themes (split every: 400 MB)
+0027.141 (0) Total entities for the zip file: 243 directories, 1821 files (0 skipped as non-modified), 25.7 MB
+0027.151 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0027.162 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0027.172 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0027.186 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0027.198 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0027.202 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 1821 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0027.454 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 600 files added (on-disk size: 1192.2 KB)
+0027.464 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 700 files added (on-disk size: 1192.2 KB)
+0027.476 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 800 files added (on-disk size: 1192.2 KB)
+0027.487 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 900 files added (on-disk size: 1192.2 KB)
+0027.498 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1000 files added (on-disk size: 1192.2 KB)
+0027.502 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.8 MB, 1821 files batched, 501 (1002) added so far); re-opening (prior size: 1192.2 KB)
+0028.789 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1100 files added (on-disk size: 5705.4 KB)
+0028.799 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1200 files added (on-disk size: 5705.4 KB)
+0028.810 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1300 files added (on-disk size: 5705.4 KB)
+0028.822 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1400 files added (on-disk size: 5705.4 KB)
+0028.836 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1500 files added (on-disk size: 5705.4 KB)
+0028.841 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 1821 files batched, 501 (1503) added so far); re-opening (prior size: 5705.4 KB)
+0029.366 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1600 files added (on-disk size: 7322.8 KB)
+0029.377 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1700 files added (on-disk size: 7322.8 KB)
+0029.391 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip.tmp: 1800 files added (on-disk size: 7322.8 KB)
+0029.898 (0) Created themes zip (0) - 8977.7 KB in 2.9 s (3079.2 KB/s) (sha1: daa694576877813eb5c897d6f7fb578b0db9f4b8, sha256: b71222962f22eec723de54e9d87c649d45ff2ea58bdb1605960e6c9b99ea0a2a)
+0029.905 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0029.909 (0) Looking for candidates to backup in: /home/edwardconcepcion/public_html/wp-content/uploads
+0029.913 (0) finding files: 2019: adding to list (1)
+0029.916 (0) finding files: woocommerce_uploads: adding to list (2)
+0029.920 (0) finding files: fusionredux: adding to list (3)
+0029.923 (0) finding files: 2018: adding to list (4)
+0029.927 (0) finding files: 2016: adding to list (5)
+0029.931 (0) finding files: fusion_slider_exports: adding to list (6)
+0029.936 (0) finding files: mainwp: adding to list (7)
+0029.939 (0) finding files: js_composer: adding to list (8)
+0029.944 (0) finding files: revslider: adding to list (9)
+0029.947 (0) finding files: wc-logs: adding to list (10)
+0029.951 (0) finding files: cache: adding to list (11)
+0029.954 (0) finding files: woocommerce-placeholder-300x214.png: adding to list (12)
+0029.958 (0) finding files: woocommerce-placeholder-700x441.png: adding to list (13)
+0029.962 (0) finding files: woocommerce-placeholder-320x202.png: adding to list (14)
+0029.965 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (15)
+0029.969 (0) finding files: woocommerce-placeholder-460x295.png: adding to list (16)
+0029.973 (0) finding files: GeoLite2-Country.mmdb: adding to list (17)
+0029.977 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (18)
+0029.981 (0) finding files: woocommerce-placeholder-540x272.png: adding to list (19)
+0029.984 (0) finding files: woocommerce-placeholder-177x142.png: adding to list (20)
+0029.988 (0) finding files: woocommerce-placeholder-400x400.png: adding to list (21)
+0029.992 (0) finding files: woocommerce-placeholder.png: adding to list (22)
+0029.996 (0) finding files: woocommerce-placeholder-800x800.png: adding to list (23)
+0030.000 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (24)
+0030.004 (0) finding files: woocommerce-placeholder-1200x1200.png: adding to list (25)
+0030.008 (0) finding files: index.php: adding to list (26)
+0030.012 (0) finding files: woocommerce-placeholder-200x200.png: adding to list (27)
+0030.015 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (28)
+0030.019 (0) finding files: woocommerce-placeholder-940x400.png: adding to list (29)
+0030.022 (0) finding files: woocommerce-placeholder-66x66.png: adding to list (30)
+0030.029 (0) finding files: woocommerce-placeholder-669x272.png: adding to list (31)
+0030.032 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (32)
+0030.036 (0) finding files: 2020: adding to list (33)
+0030.040 (0) finding files: ip2location: adding to list (34)
+0030.044 (0) finding files: ithemes-security: adding to list (35)
+0030.047 (0) finding files: .htaccess: adding to list (36)
+0030.052 (0) finding files: convertplus_uploads: adding to list (37)
+0030.055 (0) finding files: cfdb7_uploads: adding to list (38)
+0030.060 (0) finding files: fusion-styles: adding to list (39)
+0030.063 (0) finding files: fusion-scripts: adding to list (40)
+0030.067 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0030.255 (0) Total entities for the zip file: 314 directories, 2147 files (0 skipped as non-modified), 57.2 MB
+0030.285 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0030.297 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0030.307 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (27.6 MB, 2147 files batched, 284 (284) added so far); re-opening (prior size: 0 KB)
+0030.739 (0) A useful amount of data was added after this amount of zip processing: 1.5 s (normalised: 1.3 s, rate: 19411.5 KB/s)
+0030.748 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.4543750286102, normalised_time=1.3188080653881, max_time=30.744028091431, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0030.759 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 300 files added (on-disk size: 28326.2 KB)
+0030.769 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 400 files added (on-disk size: 28326.2 KB)
+0030.788 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 500 files added (on-disk size: 28326.2 KB)
+0030.800 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 600 files added (on-disk size: 28326.2 KB)
+0030.812 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 700 files added (on-disk size: 28326.2 KB)
+0030.823 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14 MB, 2147 files batched, 501 (785) added so far); re-opening (prior size: 28326.2 KB)
+0031.202 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 800 files added (on-disk size: 42784.6 KB)
+0031.212 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 900 files added (on-disk size: 42784.6 KB)
+0031.222 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1000 files added (on-disk size: 42784.6 KB)
+0031.232 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1100 files added (on-disk size: 42784.6 KB)
+0031.242 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1200 files added (on-disk size: 42784.6 KB)
+0031.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.9 MB, 2147 files batched, 501 (1286) added so far); re-opening (prior size: 42784.6 KB)
+0034.379 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1300 files added (on-disk size: 46678.4 KB)
+0034.389 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1400 files added (on-disk size: 46678.4 KB)
+0034.399 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1500 files added (on-disk size: 46678.4 KB)
+0034.408 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1600 files added (on-disk size: 46678.4 KB)
+0034.421 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1700 files added (on-disk size: 46678.4 KB)
+0034.432 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0 MB, 2147 files batched, 501 (1787) added so far); re-opening (prior size: 46678.4 KB)
+0034.724 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1800 files added (on-disk size: 46814.1 KB)
+0034.735 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 1900 files added (on-disk size: 46814.1 KB)
+0034.746 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 2000 files added (on-disk size: 46814.1 KB)
+0034.757 (0) Zip: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip.tmp: 2100 files added (on-disk size: 46814.1 KB)
+0036.127 (0) Created uploads zip (0) - 48264.2 KB in 6.1 s (7970 KB/s) (sha1: 472d6253c35b877b2efce35d477975fe4a573b46, sha256: 5d8a72900809714e41822669c9667b185d7a2a2d695d6264e8f1afdfc4b07d35)
+0036.134 (0) Beginning backup of other directories found in the content directory (index: 0)
+0036.138 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0036.142 (0) Looking for candidates to backup in: /home/edwardconcepcion/public_html/wp-content
+0036.146 (0) finding files: upgrade: skipping: excluded by options
+0036.150 (0) finding files: wflogs: adding to list (1)
+0036.153 (0) finding files: themes: skipping: this is the themes directory
+0036.157 (0) finding files: plugins: skipping: this is the plugins directory
+0036.161 (0) finding files: uploads: skipping: this is the uploads directory
+0036.169 (0) finding files: index.php: adding to list (2)
+0036.172 (0) finding files: updraft: skipping: this is the updraft directory
+0036.177 (0) finding files: cache: skipping: excluded by options
+0036.180 (0) finding files: w3tc-config: adding to list (3)
+0036.184 (0) finding files: old-object-cache.php: adding to list (4)
+0036.186 (0) finding files: advanced-cache.php: adding to list (5)
+0036.190 (0) finding files: object-cache.php: adding to list (6)
+0036.193 (0) finding files: db.php: adding to list (7)
+0036.203 (0) Total entities for the zip file: 2 directories, 17 files (0 skipped as non-modified), 5.2 MB
+0038.751 (0) Created others zip (0) - 2404.1 KB in 2.6 s (941.9 KB/s) (sha1: 3a850add0d28928175fbef567137198fb73b0571, sha256: aa8642ebd0534f47ff5f3524a7e85173c2e5311f137a53e14fe29b8b56827496)
+0038.764 (0) Saving backup status to database (elements: 8)
+0038.777 (0) Beginning creation of database dump (WordPress DB)
+0038.782 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0038.806 (0) Table ec_options: Total expected rows (approximate): 894
+0039.050 (0) Table ec_options: Rows added in this batch (start page: 0; next: finished): 903 in 0.24 seconds
+0039.055 (0) Table ec_options: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_options.table.gz - 974.4 KB)
+0039.067 (0) Table ec_users: Total expected rows (approximate): 0
+0039.072 (0) Table ec_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0039.076 (0) Table ec_users: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_users.table.gz - 0.5 KB)
+0039.085 (0) Table ec_usermeta: Total expected rows (approximate): 84
+0039.091 (0) Table ec_usermeta: Rows added in this batch (start page: 0; next: finished): 89 in 0.00 seconds
+0039.103 (0) Table ec_usermeta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_usermeta.table.gz - 4.2 KB)
+0039.184 (0) Table ec_actionscheduler_actions: Total expected rows (approximate): 13
+0039.192 (0) Table ec_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 13 in 0.00 seconds
+0039.209 (0) Table ec_actionscheduler_actions: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_actions.table.gz - 1 KB)
+0039.286 (0) Table ec_actionscheduler_claims: Total expected rows (approximate): 0
+0039.294 (0) Table ec_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0039.378 (0) Table ec_actionscheduler_claims: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_claims.table.gz - 0.4 KB)
+0039.429 (0) Table ec_actionscheduler_groups: Total expected rows (approximate): 3
+0039.447 (0) Table ec_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0039.463 (0) Table ec_actionscheduler_groups: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_groups.table.gz - 0.4 KB)
+0039.546 (0) Table ec_actionscheduler_logs: Total expected rows (approximate): 39
+0039.563 (0) Table ec_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 39 in 0.00 seconds
+0039.572 (0) Table ec_actionscheduler_logs: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_logs.table.gz - 0.9 KB)
+0039.657 (0) Table ec_commentmeta: Total expected rows (approximate): 0
+0039.665 (0) Table ec_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0039.693 (0) Table ec_commentmeta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_commentmeta.table.gz - 0.4 KB)
+0039.763 (0) Table ec_comments: Total expected rows (approximate): 11
+0039.773 (0) Table ec_comments: Rows added in this batch (start page: 0; next: finished): 11 in 0.00 seconds
+0039.780 (0) Table ec_comments: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_comments.table.gz - 1.5 KB)
+0039.816 (0) Table ec_itsec_distributed_storage: Total expected rows (approximate): 8
+0039.929 (0) Table ec_itsec_distributed_storage: Rows added in this batch (start page: 0; next: finished): 8 in 0.11 seconds
+0039.935 (0) Table ec_itsec_distributed_storage: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_distributed_storage.table.gz - 458.5 KB)
+0039.947 (0) Table ec_itsec_fingerprints: Total expected rows (approximate): 0
+0039.951 (0) Table ec_itsec_fingerprints: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0039.955 (0) Table ec_itsec_fingerprints: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_fingerprints.table.gz - 0.4 KB)
+0039.964 (0) Table ec_itsec_geolocation_cache: Total expected rows (approximate): 0
+0039.968 (0) Table ec_itsec_geolocation_cache: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0039.971 (0) Table ec_itsec_geolocation_cache: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_geolocation_cache.table.gz - 0.4 KB)
+0039.980 (0) Table ec_itsec_lockouts: Total expected rows (approximate): 0
+0039.984 (0) Table ec_itsec_lockouts: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0039.987 (0) Table ec_itsec_lockouts: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_lockouts.table.gz - 0.4 KB)
+0039.996 (0) Table ec_itsec_logs: Total expected rows (approximate): 107
+0040.107 (0) Table ec_itsec_logs: Rows added in this batch (start page: 0; next: finished): 107 in 0.11 seconds
+0040.111 (0) Table ec_itsec_logs: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_logs.table.gz - 503.1 KB)
+0040.121 (0) Table ec_itsec_mutexes: Total expected rows (approximate): 0
+0040.126 (0) Table ec_itsec_mutexes: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.129 (0) Table ec_itsec_mutexes: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_mutexes.table.gz - 0.3 KB)
+0040.139 (0) Table ec_itsec_temp: Total expected rows (approximate): 50
+0040.144 (0) Table ec_itsec_temp: Rows added in this batch (start page: 0; next: finished): 50 in 0.00 seconds
+0040.147 (0) Table ec_itsec_temp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_temp.table.gz - 1.4 KB)
+0040.157 (0) Table ec_itsec_user_groups: Total expected rows (approximate): 5
+0040.163 (0) Table ec_itsec_user_groups: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0040.167 (0) Table ec_itsec_user_groups: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_user_groups.table.gz - 0.6 KB)
+0040.178 (0) Table ec_links: Total expected rows (approximate): 0
+0040.183 (0) Table ec_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0040.186 (0) Table ec_links: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_links.table.gz - 0.4 KB)
+0040.199 (0) Table ec_postmeta: Total expected rows (approximate): 38209
+0041.281 (0) Table ec_postmeta: Rows added in this batch (start page: 0; next: finished): 45540 in 1.08 seconds
+0041.287 (0) Table ec_postmeta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_postmeta.table.gz - 231.9 KB)
+0041.298 (0) Table ec_posts: Total expected rows (approximate): 118
+0041.321 (0) Table ec_posts: Rows added in this batch (start page: 0; next: finished): 123 in 0.02 seconds
+0041.327 (0) Table ec_posts: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_posts.table.gz - 23.1 KB)
+0041.339 (0) Table ec_term_relationships: Total expected rows (approximate): 46
+0041.345 (0) Table ec_term_relationships: Rows added in this batch (start page: 0; next: finished): 46 in 0.00 seconds
+0041.348 (0) Table ec_term_relationships: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_term_relationships.table.gz - 0.5 KB)
+0041.357 (0) Table ec_term_taxonomy: Total expected rows (approximate): 24
+0041.361 (0) Table ec_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 24 in 0.00 seconds
+0041.364 (0) Table ec_term_taxonomy: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_term_taxonomy.table.gz - 0.6 KB)
+0041.372 (0) Table ec_termmeta: Total expected rows (approximate): 0
+0041.376 (0) Table ec_termmeta: Rows added in this batch (start page: 0; next: finished): 7 in 0.00 seconds
+0041.380 (0) Table ec_termmeta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_termmeta.table.gz - 0.7 KB)
+0041.388 (0) Table ec_terms: Total expected rows (approximate): 24
+0041.393 (0) Table ec_terms: Rows added in this batch (start page: 0; next: finished): 24 in 0.00 seconds
+0041.397 (0) Table ec_terms: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_terms.table.gz - 0.7 KB)
+0041.406 (0) Table ec_ab_appointments: Total expected rows (approximate): 0
+0041.413 (0) Table ec_ab_appointments: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.417 (0) Table ec_ab_appointments: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_appointments.table.gz - 0.5 KB)
+0041.428 (0) Table ec_ab_categories: Total expected rows (approximate): 0
+0041.434 (0) Table ec_ab_categories: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.438 (0) Table ec_ab_categories: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_categories.table.gz - 0.3 KB)
+0041.449 (0) Table ec_ab_customer_appointments: Total expected rows (approximate): 0
+0041.455 (0) Table ec_ab_customer_appointments: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.458 (0) Table ec_ab_customer_appointments: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_customer_appointments.table.gz - 0.6 KB)
+0041.465 (0) Table ec_ab_customers: Total expected rows (approximate): 0
+0041.470 (0) Table ec_ab_customers: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.473 (0) Table ec_ab_customers: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_customers.table.gz - 0.4 KB)
+0041.481 (0) Table ec_ab_holidays: Total expected rows (approximate): 0
+0041.488 (0) Table ec_ab_holidays: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.492 (0) Table ec_ab_holidays: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_holidays.table.gz - 0.4 KB)
+0041.500 (0) Table ec_ab_messages: Total expected rows (approximate): 0
+0041.505 (0) Table ec_ab_messages: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.508 (0) Table ec_ab_messages: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_messages.table.gz - 0.3 KB)
+0041.518 (0) Table ec_ab_notifications: Total expected rows (approximate): 36
+0041.527 (0) Table ec_ab_notifications: Rows added in this batch (start page: 0; next: finished): 36 in 0.01 seconds
+0041.532 (0) Table ec_ab_notifications: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_notifications.table.gz - 1.6 KB)
+0041.543 (0) Table ec_ab_payments: Total expected rows (approximate): 0
+0041.552 (0) Table ec_ab_payments: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.556 (0) Table ec_ab_payments: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_payments.table.gz - 0.4 KB)
+0041.567 (0) Table ec_ab_schedule_item_breaks: Total expected rows (approximate): 0
+0041.573 (0) Table ec_ab_schedule_item_breaks: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.578 (0) Table ec_ab_schedule_item_breaks: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_schedule_item_breaks.table.gz - 0.4 KB)
+0041.589 (0) Table ec_ab_sent_notifications: Total expected rows (approximate): 0
+0041.595 (0) Table ec_ab_sent_notifications: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.599 (0) Table ec_ab_sent_notifications: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_sent_notifications.table.gz - 0.4 KB)
+0041.611 (0) Table ec_ab_series: Total expected rows (approximate): 0
+0041.616 (0) Table ec_ab_series: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.620 (0) Table ec_ab_series: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_series.table.gz - 0.3 KB)
+0041.629 (0) Table ec_ab_services: Total expected rows (approximate): 0
+0041.635 (0) Table ec_ab_services: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.638 (0) Table ec_ab_services: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_services.table.gz - 0.7 KB)
+0041.647 (0) Table ec_ab_staff: Total expected rows (approximate): 0
+0041.652 (0) Table ec_ab_staff: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0041.656 (0) Table ec_ab_staff: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff.table.gz - 0.5 KB)
+0041.664 (0) Table ec_ab_staff_preference_orders: Total expected rows (approximate): 0
+0041.669 (0) Table ec_ab_staff_preference_orders: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.672 (0) Table ec_ab_staff_preference_orders: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff_preference_orders.table.gz - 0.4 KB)
+0041.681 (0) Table ec_ab_staff_schedule_items: Total expected rows (approximate): 7
+0041.686 (0) Table ec_ab_staff_schedule_items: Rows added in this batch (start page: 0; next: finished): 7 in 0.00 seconds
+0041.689 (0) Table ec_ab_staff_schedule_items: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff_schedule_items.table.gz - 0.5 KB)
+0041.698 (0) Table ec_ab_staff_services: Total expected rows (approximate): 0
+0041.703 (0) Table ec_ab_staff_services: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.706 (0) Table ec_ab_staff_services: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff_services.table.gz - 0.5 KB)
+0041.715 (0) Table ec_ab_stats: Total expected rows (approximate): 0
+0041.720 (0) Table ec_ab_stats: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.724 (0) Table ec_ab_stats: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_stats.table.gz - 0.3 KB)
+0041.732 (0) Table ec_ab_sub_services: Total expected rows (approximate): 0
+0041.737 (0) Table ec_ab_sub_services: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.740 (0) Table ec_ab_sub_services: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_sub_services.table.gz - 0.4 KB)
+0041.749 (0) Table ec_db7_forms: Total expected rows (approximate): 1
+0041.754 (0) Table ec_db7_forms: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0041.757 (0) Table ec_db7_forms: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_db7_forms.table.gz - 0.5 KB)
+0041.766 (0) Table ec_duplicator_packages: Total expected rows (approximate): 0
+0041.775 (0) Table ec_duplicator_packages: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0041.779 (0) Table ec_duplicator_packages: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_duplicator_packages.table.gz - 0.4 KB)
+0041.789 (0) Table ec_eum_logs: Total expected rows (approximate): 87
+0041.795 (0) Table ec_eum_logs: Rows added in this batch (start page: 0; next: finished): 87 in 0.00 seconds
+0041.799 (0) Table ec_eum_logs: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_eum_logs.table.gz - 2.2 KB)
+0041.808 (0) Table ec_ip2location_country_blocker_log: Total expected rows (approximate): 6591
+0041.865 (0) Table ec_ip2location_country_blocker_log: Rows added in this batch (start page: 0; next: finished): 6591 in 0.05 seconds
+0041.869 (0) Table ec_ip2location_country_blocker_log: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ip2location_country_blocker_log.table.gz - 82.4 KB)
+0041.880 (0) Table ec_itsec_dashboard_events: Total expected rows (approximate): 189
+0041.889 (0) Table ec_itsec_dashboard_events: Rows added in this batch (start page: 0; next: finished): 205 in 0.01 seconds
+0041.893 (0) Table ec_itsec_dashboard_events: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_dashboard_events.table.gz - 1.9 KB)
+0041.901 (0) Table ec_itsec_opaque_tokens: Total expected rows (approximate): 0
+0041.905 (0) Table ec_itsec_opaque_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.908 (0) Table ec_itsec_opaque_tokens: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_opaque_tokens.table.gz - 0.3 KB)
+0041.926 (0) Table ec_layerslider: Total expected rows (approximate): 0
+0041.930 (0) Table ec_layerslider: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.934 (0) Table ec_layerslider: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_layerslider.table.gz - 0.4 KB)
+0041.943 (0) Table ec_layerslider_revisions: Total expected rows (approximate): 0
+0041.947 (0) Table ec_layerslider_revisions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0041.951 (0) Table ec_layerslider_revisions: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_layerslider_revisions.table.gz - 0.3 KB)
+0041.960 (0) Table ec_revslider_css: Total expected rows (approximate): 121
+0041.968 (0) Table ec_revslider_css: Rows added in this batch (start page: 0; next: finished): 121 in 0.01 seconds
+0041.972 (0) Table ec_revslider_css: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_css.table.gz - 5.2 KB)
+0041.981 (0) Table ec_revslider_css_bkp: Total expected rows (approximate): 121
+0041.992 (0) Table ec_revslider_css_bkp: Rows added in this batch (start page: 0; next: finished): 121 in 0.00 seconds
+0041.996 (0) Table ec_revslider_css_bkp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_css_bkp.table.gz - 5.3 KB)
+0042.011 (0) Table ec_revslider_layer_animations: Total expected rows (approximate): 0
+0042.019 (0) Table ec_revslider_layer_animations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0042.022 (0) Table ec_revslider_layer_animations: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_layer_animations.table.gz - 0.3 KB)
+0042.035 (0) Table ec_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0042.043 (0) Table ec_revslider_layer_animations_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0042.061 (0) Table ec_revslider_layer_animations_bkp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0042.114 (0) Table ec_revslider_navigations: Total expected rows (approximate): 0
+0042.154 (0) Table ec_revslider_navigations: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0042.161 (0) Table ec_revslider_navigations: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_navigations.table.gz - 0.3 KB)
+0042.189 (0) Table ec_revslider_navigations_bkp: Total expected rows (approximate): 0
+0042.214 (0) Table ec_revslider_navigations_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0042.219 (0) Table ec_revslider_navigations_bkp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_navigations_bkp.table.gz - 0.3 KB)
+0042.231 (0) Table ec_revslider_sliders: Total expected rows (approximate): 0
+0042.264 (0) Table ec_revslider_sliders: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0042.289 (0) Table ec_revslider_sliders: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_sliders.table.gz - 0.3 KB)
+0042.349 (0) Table ec_revslider_sliders_bkp: Total expected rows (approximate): 0
+0042.366 (0) Table ec_revslider_sliders_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0042.371 (0) Table ec_revslider_sliders_bkp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_sliders_bkp.table.gz - 0.3 KB)
+0042.384 (0) Table ec_revslider_slides: Total expected rows (approximate): 0
+0042.389 (0) Table ec_revslider_slides: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0042.402 (0) Table ec_revslider_slides: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_slides.table.gz - 0.3 KB)
+0042.424 (0) Table ec_revslider_slides_bkp: Total expected rows (approximate): 0
+0042.429 (0) Table ec_revslider_slides_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0042.432 (0) Table ec_revslider_slides_bkp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_slides_bkp.table.gz - 0.3 KB)
+0042.478 (0) Table ec_revslider_static_slides: Total expected rows (approximate): 0
+0042.489 (0) Table ec_revslider_static_slides: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0042.499 (0) Table ec_revslider_static_slides: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_static_slides.table.gz - 0.3 KB)
+0042.535 (0) Table ec_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0042.556 (0) Table ec_revslider_static_slides_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0042.577 (0) Table ec_revslider_static_slides_bkp: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_static_slides_bkp.table.gz - 0.3 KB)
+0042.653 (0) Table ec_smush_dir_images: Total expected rows (approximate): 0
+0042.678 (0) Table ec_smush_dir_images: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0042.701 (0) Table ec_smush_dir_images: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_smush_dir_images.table.gz - 0.4 KB)
+0042.771 (0) Table ec_wc_download_log: Total expected rows (approximate): 0
+0042.816 (0) Table ec_wc_download_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0042.840 (0) Table ec_wc_download_log: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_download_log.table.gz - 0.4 KB)
+0042.920 (0) Table ec_wc_product_meta_lookup: Total expected rows (approximate): 0
+0042.965 (0) Table ec_wc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0042.984 (0) Table ec_wc_product_meta_lookup: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_product_meta_lookup.table.gz - 0.5 KB)
+0043.053 (0) Table ec_wc_tax_rate_classes: Total expected rows (approximate): 2
+0043.085 (0) Table ec_wc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0043.108 (0) Table ec_wc_tax_rate_classes: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_tax_rate_classes.table.gz - 0.4 KB)
+0043.178 (0) Table ec_wc_webhooks: Total expected rows (approximate): 0
+0043.223 (0) Table ec_wc_webhooks: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0043.246 (0) Table ec_wc_webhooks: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_webhooks.table.gz - 0.5 KB)
+0043.316 (0) Table ec_wfblockediplog: Total expected rows (approximate): 839
+0043.360 (0) Table ec_wfblockediplog: Rows added in this batch (start page: 0; next: finished): 32 in 0.03 seconds
+0043.364 (0) Table ec_wfblockediplog: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfblockediplog.table.gz - 0.7 KB)
+0043.435 (0) Table ec_wfblocks7: Total expected rows (approximate): 0
+0043.460 (0) Table ec_wfblocks7: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0043.483 (0) Table ec_wfblocks7: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfblocks7.table.gz - 0.4 KB)
+0043.587 (0) Table ec_wfconfig: Total expected rows (approximate): 266
+0043.741 (0) Table ec_wfconfig: Rows added in this batch (start page: 0; next: finished): 268 in 0.12 seconds
+0043.746 (0) Table ec_wfconfig: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfconfig.table.gz - 499.5 KB)
+0043.765 (0) Table ec_wfcrawlers: Total expected rows (approximate): 7
+0043.771 (0) Table ec_wfcrawlers: Rows added in this batch (start page: 0; next: finished): 8 in 0.00 seconds
+0043.775 (0) Table ec_wfcrawlers: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfcrawlers.table.gz - 0.5 KB)
+0043.795 (0) Table ec_wffilechanges: Total expected rows (approximate): 0
+0043.800 (0) Table ec_wffilechanges: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0043.804 (0) Table ec_wffilechanges: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wffilechanges.table.gz - 0.3 KB)
+0043.815 (0) Table ec_wffilemods: Total expected rows (approximate): 18466
+0044.552 (0) Table ec_wffilemods: Rows added in this batch (start page: 0; next: finished): 20318 in 0.73 seconds
+0044.556 (0) Table ec_wffilemods: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wffilemods.table.gz - 2050.3 KB)
+0044.565 (0) Table ec_wfhits: Total expected rows (approximate): 80
+0044.573 (0) Table ec_wfhits: Rows added in this batch (start page: 0; next: finished): 80 in 0.00 seconds
+0044.577 (0) Table ec_wfhits: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfhits.table.gz - 4.2 KB)
+0044.586 (0) Table ec_wfhoover: Total expected rows (approximate): 0
+0044.591 (0) Table ec_wfhoover: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0044.594 (0) Table ec_wfhoover: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfhoover.table.gz - 0.3 KB)
+0044.665 (0) Table ec_wfissues: Total expected rows (approximate): 0
+0044.713 (0) Table ec_wfissues: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0044.726 (0) Table ec_wfissues: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfissues.table.gz - 0.4 KB)
+0044.818 (0) Table ec_wfknownfilelist: Total expected rows (approximate): 20807
+0045.174 (0) Table ec_wfknownfilelist: Rows added in this batch (start page: 0; next: finished): 20318 in 0.33 seconds
+0045.178 (0) Table ec_wfknownfilelist: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfknownfilelist.table.gz - 231.3 KB)
+0045.187 (0) Table ec_wflivetraffichuman: Total expected rows (approximate): 0
+0045.191 (0) Table ec_wflivetraffichuman: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.194 (0) Table ec_wflivetraffichuman: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wflivetraffichuman.table.gz - 0.3 KB)
+0045.202 (0) Table ec_wflocs: Total expected rows (approximate): 0
+0045.207 (0) Table ec_wflocs: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.209 (0) Table ec_wflocs: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wflocs.table.gz - 0.4 KB)
+0045.220 (0) Table ec_wflogins: Total expected rows (approximate): 2027
+0045.253 (0) Table ec_wflogins: Rows added in this batch (start page: 0; next: finished): 2000 in 0.03 seconds
+0045.259 (0) Table ec_wflogins: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wflogins.table.gz - 43.7 KB)
+0045.270 (0) Table ec_wfls_2fa_secrets: Total expected rows (approximate): 0
+0045.276 (0) Table ec_wfls_2fa_secrets: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.280 (0) Table ec_wfls_2fa_secrets: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfls_2fa_secrets.table.gz - 0.4 KB)
+0045.292 (0) Table ec_wfls_settings: Total expected rows (approximate): 17
+0045.297 (0) Table ec_wfls_settings: Rows added in this batch (start page: 0; next: finished): 19 in 0.00 seconds
+0045.302 (0) Table ec_wfls_settings: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfls_settings.table.gz - 0.8 KB)
+0045.313 (0) Table ec_wfnotifications: Total expected rows (approximate): 16
+0045.322 (0) Table ec_wfnotifications: Rows added in this batch (start page: 0; next: finished): 61 in 0.01 seconds
+0045.326 (0) Table ec_wfnotifications: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfnotifications.table.gz - 1.4 KB)
+0045.335 (0) Table ec_wfpendingissues: Total expected rows (approximate): 0
+0045.340 (0) Table ec_wfpendingissues: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.344 (0) Table ec_wfpendingissues: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfpendingissues.table.gz - 0.4 KB)
+0045.353 (0) Table ec_wfreversecache: Total expected rows (approximate): 3
+0045.360 (0) Table ec_wfreversecache: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0045.364 (0) Table ec_wfreversecache: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfreversecache.table.gz - 0.4 KB)
+0045.373 (0) Table ec_wfsnipcache: Total expected rows (approximate): 0
+0045.381 (0) Table ec_wfsnipcache: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0045.384 (0) Table ec_wfsnipcache: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfsnipcache.table.gz - 0.4 KB)
+0045.393 (0) Table ec_wfstatus: Total expected rows (approximate): 1354
+0045.415 (0) Table ec_wfstatus: Rows added in this batch (start page: 0; next: finished): 1467 in 0.02 seconds
+0045.420 (0) Table ec_wfstatus: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfstatus.table.gz - 26.7 KB)
+0045.431 (0) Table ec_wftrafficrates: Total expected rows (approximate): 0
+0045.440 (0) Table ec_wftrafficrates: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0045.445 (0) Table ec_wftrafficrates: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wftrafficrates.table.gz - 0.3 KB)
+0045.455 (0) Table ec_woocommerce_api_keys: Total expected rows (approximate): 0
+0045.460 (0) Table ec_woocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.463 (0) Table ec_woocommerce_api_keys: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_api_keys.table.gz - 0.4 KB)
+0045.471 (0) Table ec_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0045.476 (0) Table ec_woocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.479 (0) Table ec_woocommerce_attribute_taxonomies: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0045.487 (0) Table ec_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0045.494 (0) Table ec_woocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.498 (0) Table ec_woocommerce_downloadable_product_permissions: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0045.507 (0) Table ec_woocommerce_log: Total expected rows (approximate): 0
+0045.512 (0) Table ec_woocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.516 (0) Table ec_woocommerce_log: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_log.table.gz - 0.4 KB)
+0045.527 (0) Table ec_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0045.536 (0) Table ec_woocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0045.541 (0) Table ec_woocommerce_order_itemmeta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0045.550 (0) Table ec_woocommerce_order_items: Total expected rows (approximate): 0
+0045.558 (0) Table ec_woocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0045.562 (0) Table ec_woocommerce_order_items: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_order_items.table.gz - 0.3 KB)
+0045.570 (0) Table ec_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0045.575 (0) Table ec_woocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.578 (0) Table ec_woocommerce_payment_tokenmeta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0045.586 (0) Table ec_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0045.591 (0) Table ec_woocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.594 (0) Table ec_woocommerce_payment_tokens: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0045.602 (0) Table ec_woocommerce_sessions: Total expected rows (approximate): 2
+0045.607 (0) Table ec_woocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0045.610 (0) Table ec_woocommerce_sessions: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_sessions.table.gz - 0.8 KB)
+0045.619 (0) Table ec_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0045.623 (0) Table ec_woocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.626 (0) Table ec_woocommerce_shipping_zone_locations: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0045.635 (0) Table ec_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0045.640 (0) Table ec_woocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.643 (0) Table ec_woocommerce_shipping_zone_methods: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0045.652 (0) Table ec_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0045.658 (0) Table ec_woocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.661 (0) Table ec_woocommerce_shipping_zones: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0045.671 (0) Table ec_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0045.676 (0) Table ec_woocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.679 (0) Table ec_woocommerce_tax_rate_locations: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0045.687 (0) Table ec_woocommerce_tax_rates: Total expected rows (approximate): 0
+0045.691 (0) Table ec_woocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.694 (0) Table ec_woocommerce_tax_rates: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_tax_rates.table.gz - 0.4 KB)
+0045.702 (0) Table ec_wpmailsmtp_tasks_meta: Total expected rows (approximate): 11
+0045.706 (0) Table ec_wpmailsmtp_tasks_meta: Rows added in this batch (start page: 0; next: finished): 11 in 0.00 seconds
+0045.708 (0) Table ec_wpmailsmtp_tasks_meta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wpmailsmtp_tasks_meta.table.gz - 0.5 KB)
+0045.716 (0) Table ec_yoast_indexable: Total expected rows (approximate): 84
+0045.725 (0) Table ec_yoast_indexable: Rows added in this batch (start page: 0; next: finished): 84 in 0.01 seconds
+0045.729 (0) Table ec_yoast_indexable: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_indexable.table.gz - 7.5 KB)
+0045.736 (0) Table ec_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0045.739 (0) Table ec_yoast_indexable_hierarchy: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.742 (0) Table ec_yoast_indexable_hierarchy: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_indexable_hierarchy.table.gz - 0.4 KB)
+0045.750 (0) Table ec_yoast_migrations: Total expected rows (approximate): 18
+0045.754 (0) Table ec_yoast_migrations: Rows added in this batch (start page: 0; next: finished): 18 in 0.00 seconds
+0045.758 (0) Table ec_yoast_migrations: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_migrations.table.gz - 0.5 KB)
+0045.765 (0) Table ec_yoast_primary_term: Total expected rows (approximate): 0
+0045.769 (0) Table ec_yoast_primary_term: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0045.772 (0) Table ec_yoast_primary_term: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_primary_term.table.gz - 0.4 KB)
+0045.779 (0) Table ec_yoast_seo_links: Total expected rows (approximate): 72
+0045.785 (0) Table ec_yoast_seo_links: Rows added in this batch (start page: 0; next: finished): 72 in 0.00 seconds
+0045.788 (0) Table ec_yoast_seo_links: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_seo_links.table.gz - 1.3 KB)
+0045.796 (0) Table ec_yoast_seo_meta: Total expected rows (approximate): 39
+0045.801 (0) Table ec_yoast_seo_meta: Rows added in this batch (start page: 0; next: finished): 40 in 0.00 seconds
+0045.804 (0) Table ec_yoast_seo_meta: finishing file (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_seo_meta.table.gz - 0.5 KB)
+0045.810 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_options.table.gz (1/109): adding to final database dump
+0045.990 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_users.table.gz (2/109): adding to final database dump
+0045.994 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_usermeta.table.gz (3/109): adding to final database dump
+0045.998 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_actions.table.gz (4/109): adding to final database dump
+0046.001 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_claims.table.gz (5/109): adding to final database dump
+0046.004 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_groups.table.gz (6/109): adding to final database dump
+0046.007 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_actionscheduler_logs.table.gz (7/109): adding to final database dump
+0046.010 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_commentmeta.table.gz (8/109): adding to final database dump
+0046.012 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_comments.table.gz (9/109): adding to final database dump
+0046.016 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_distributed_storage.table.gz (10/109): adding to final database dump
+0046.082 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_fingerprints.table.gz (11/109): adding to final database dump
+0046.086 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_geolocation_cache.table.gz (12/109): adding to final database dump
+0046.089 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_lockouts.table.gz (13/109): adding to final database dump
+0046.092 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_logs.table.gz (14/109): adding to final database dump
+0046.171 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_mutexes.table.gz (15/109): adding to final database dump
+0046.175 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_temp.table.gz (16/109): adding to final database dump
+0046.179 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_user_groups.table.gz (17/109): adding to final database dump
+0046.183 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_links.table.gz (18/109): adding to final database dump
+0046.185 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_postmeta.table.gz (19/109): adding to final database dump
+0046.397 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_posts.table.gz (20/109): adding to final database dump
+0046.407 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_term_relationships.table.gz (21/109): adding to final database dump
+0046.411 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_term_taxonomy.table.gz (22/109): adding to final database dump
+0046.414 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_termmeta.table.gz (23/109): adding to final database dump
+0046.418 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_terms.table.gz (24/109): adding to final database dump
+0046.421 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_appointments.table.gz (25/109): adding to final database dump
+0046.424 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_categories.table.gz (26/109): adding to final database dump
+0046.427 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_customer_appointments.table.gz (27/109): adding to final database dump
+0046.430 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_customers.table.gz (28/109): adding to final database dump
+0046.434 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_holidays.table.gz (29/109): adding to final database dump
+0046.437 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_messages.table.gz (30/109): adding to final database dump
+0046.440 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_notifications.table.gz (31/109): adding to final database dump
+0046.444 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_payments.table.gz (32/109): adding to final database dump
+0046.447 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_schedule_item_breaks.table.gz (33/109): adding to final database dump
+0046.449 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_sent_notifications.table.gz (34/109): adding to final database dump
+0046.452 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_series.table.gz (35/109): adding to final database dump
+0046.455 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_services.table.gz (36/109): adding to final database dump
+0046.458 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff.table.gz (37/109): adding to final database dump
+0046.461 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff_preference_orders.table.gz (38/109): adding to final database dump
+0046.464 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff_schedule_items.table.gz (39/109): adding to final database dump
+0046.467 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_staff_services.table.gz (40/109): adding to final database dump
+0046.470 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_stats.table.gz (41/109): adding to final database dump
+0046.473 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ab_sub_services.table.gz (42/109): adding to final database dump
+0046.476 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_db7_forms.table.gz (43/109): adding to final database dump
+0046.479 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_duplicator_packages.table.gz (44/109): adding to final database dump
+0046.482 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_eum_logs.table.gz (45/109): adding to final database dump
+0046.486 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_ip2location_country_blocker_log.table.gz (46/109): adding to final database dump
+0046.508 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_dashboard_events.table.gz (47/109): adding to final database dump
+0046.513 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_itsec_opaque_tokens.table.gz (48/109): adding to final database dump
+0046.516 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_layerslider.table.gz (49/109): adding to final database dump
+0046.520 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_layerslider_revisions.table.gz (50/109): adding to final database dump
+0046.523 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_css.table.gz (51/109): adding to final database dump
+0046.527 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_css_bkp.table.gz (52/109): adding to final database dump
+0046.531 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_layer_animations.table.gz (53/109): adding to final database dump
+0046.535 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_layer_animations_bkp.table.gz (54/109): adding to final database dump
+0046.537 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_navigations.table.gz (55/109): adding to final database dump
+0046.541 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_navigations_bkp.table.gz (56/109): adding to final database dump
+0046.544 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_sliders.table.gz (57/109): adding to final database dump
+0046.547 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_sliders_bkp.table.gz (58/109): adding to final database dump
+0046.550 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_slides.table.gz (59/109): adding to final database dump
+0046.556 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_slides_bkp.table.gz (60/109): adding to final database dump
+0046.565 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_static_slides.table.gz (61/109): adding to final database dump
+0046.577 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_revslider_static_slides_bkp.table.gz (62/109): adding to final database dump
+0046.580 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_smush_dir_images.table.gz (63/109): adding to final database dump
+0046.584 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_download_log.table.gz (64/109): adding to final database dump
+0046.587 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_product_meta_lookup.table.gz (65/109): adding to final database dump
+0046.590 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_tax_rate_classes.table.gz (66/109): adding to final database dump
+0046.593 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wc_webhooks.table.gz (67/109): adding to final database dump
+0046.596 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfblockediplog.table.gz (68/109): adding to final database dump
+0046.599 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfblocks7.table.gz (69/109): adding to final database dump
+0046.602 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfconfig.table.gz (70/109): adding to final database dump
+0046.717 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfcrawlers.table.gz (71/109): adding to final database dump
+0046.721 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wffilechanges.table.gz (72/109): adding to final database dump
+0046.725 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wffilemods.table.gz (73/109): adding to final database dump
+0046.984 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfhits.table.gz (74/109): adding to final database dump
+0046.988 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfhoover.table.gz (75/109): adding to final database dump
+0046.992 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfissues.table.gz (76/109): adding to final database dump
+0046.995 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfknownfilelist.table.gz (77/109): adding to final database dump
+0047.046 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wflivetraffichuman.table.gz (78/109): adding to final database dump
+0047.050 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wflocs.table.gz (79/109): adding to final database dump
+0047.054 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wflogins.table.gz (80/109): adding to final database dump
+0047.065 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfls_2fa_secrets.table.gz (81/109): adding to final database dump
+0047.069 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfls_settings.table.gz (82/109): adding to final database dump
+0047.072 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfnotifications.table.gz (83/109): adding to final database dump
+0047.076 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfpendingissues.table.gz (84/109): adding to final database dump
+0047.079 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfreversecache.table.gz (85/109): adding to final database dump
+0047.082 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfsnipcache.table.gz (86/109): adding to final database dump
+0047.084 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wfstatus.table.gz (87/109): adding to final database dump
+0047.092 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wftrafficrates.table.gz (88/109): adding to final database dump
+0047.095 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_api_keys.table.gz (89/109): adding to final database dump
+0047.098 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_attribute_taxonomies.table.gz (90/109): adding to final database dump
+0047.102 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_downloadable_product_permissions.table.gz (91/109): adding to final database dump
+0047.106 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_log.table.gz (92/109): adding to final database dump
+0047.122 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_order_itemmeta.table.gz (93/109): adding to final database dump
+0047.131 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_order_items.table.gz (94/109): adding to final database dump
+0047.147 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_payment_tokenmeta.table.gz (95/109): adding to final database dump
+0047.154 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_payment_tokens.table.gz (96/109): adding to final database dump
+0047.170 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_sessions.table.gz (97/109): adding to final database dump
+0047.179 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_shipping_zone_locations.table.gz (98/109): adding to final database dump
+0047.199 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_shipping_zone_methods.table.gz (99/109): adding to final database dump
+0047.209 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_shipping_zones.table.gz (100/109): adding to final database dump
+0047.222 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_tax_rate_locations.table.gz (101/109): adding to final database dump
+0047.233 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_woocommerce_tax_rates.table.gz (102/109): adding to final database dump
+0047.247 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_wpmailsmtp_tasks_meta.table.gz (103/109): adding to final database dump
+0047.258 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_indexable.table.gz (104/109): adding to final database dump
+0047.275 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_indexable_hierarchy.table.gz (105/109): adding to final database dump
+0047.283 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_migrations.table.gz (106/109): adding to final database dump
+0047.297 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_primary_term.table.gz (107/109): adding to final database dump
+0047.310 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_seo_links.table.gz (108/109): adding to final database dump
+0047.323 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db-table-ec_yoast_seo_meta.table.gz (109/109): adding to final database dump
+0047.335 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz: finished writing out complete database file (5152 KB)
+0047.415 (0) Total database tables backed up: 109 (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz, size: 5298780, sha1: ef8b5f9107af041d67aba2b46685c5a576d71dff, sha256: 5fdff76b39da84133b7571798c143560d08c97c4dea7387ca178264caae4f778)
+0047.429 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0047.432 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0047.435 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0047.437 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0047.440 (0) backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0047.442 (0) Saving backup history. Total backup size: 121.8 MB
+0047.448 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0047.456 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0047.458 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-dfbfc2316bb61ad38811bd5d5c85fc7d)
+0047.461 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0047.474 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0047.840 (0) Dropbox: quota usage: used=656167.6 MB, total=2108672 MB, available=1452504.4 MB
+0047.844 (0) Dropbox: Attempt to upload: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip to: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip
+0048.772 (0) Dropbox chunked upload: 1.7 % uploaded (AAAAAAABtMkNz-BqAmccGA, 1048576, 9216 KB)
+0052.341 (0) Dropbox chunked upload: 17.1 % uploaded (AAAAAAABtMkNz-BqAmccGA, 10485760, 10240 KB)
+0054.047 (0) Dropbox chunked upload: 34.2 % uploaded (AAAAAAABtMkNz-BqAmccGA, 20971520, 10240 KB)
+0055.611 (0) Dropbox chunked upload: 51.3 % uploaded (AAAAAAABtMkNz-BqAmccGA, 31457280, 10240 KB)
+0064.593 (0) Dropbox chunked upload: 68.4 % uploaded (AAAAAAABtMkNz-BqAmccGA, 41943040, 10240 KB)
+0068.056 (0) Dropbox chunked upload: 85.4 % uploaded (AAAAAAABtMkNz-BqAmccGA, 52428800, 10240 KB)
+0070.557 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAABtMkNz-BqAmccGA, 61363316, 10240 KB)
+0072.056 (0) Recording as successfully uploaded: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip
+0072.076 (0) Deleting local file: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip: OK
+0072.081 (0) Dropbox: File upload success (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-plugins.zip): 59925 KB in 24s (2472 KB/s)
+0072.369 (0) Dropbox: quota usage: used=656226.1 MB, total=2108672 MB, available=1452445.9 MB
+0072.374 (0) Dropbox: Attempt to upload: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip to: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip
+0074.789 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAABtMrNGg7ox1nRzQ, 9193149, 10240 KB)
+0076.101 (0) Recording as successfully uploaded: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip
+0076.111 (0) Deleting local file: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip: OK
+0076.114 (0) Dropbox: File upload success (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-themes.zip): 8977 KB in 3s (2400 KB/s)
+0076.479 (0) Dropbox: quota usage: used=656234.8 MB, total=2108672 MB, available=1452437.2 MB
+0076.484 (0) Dropbox: Attempt to upload: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip to: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip
+0079.894 (0) Dropbox chunked upload: 21.2 % uploaded (AAAAAAABtMvchoRc2E24hQ, 10485760, 10240 KB)
+0081.905 (0) Dropbox chunked upload: 42.4 % uploaded (AAAAAAABtMvchoRc2E24hQ, 20971520, 10240 KB)
+0104.270 (0) Dropbox chunked upload: 63.6 % uploaded (AAAAAAABtMvchoRc2E24hQ, 31457280, 10240 KB)
+0107.265 (0) Dropbox chunked upload: 84.9 % uploaded (AAAAAAABtMvchoRc2E24hQ, 41943040, 10240 KB)
+0109.165 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAABtMvchoRc2E24hQ, 49422515, 10240 KB)
+0110.700 (0) Recording as successfully uploaded: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip
+0110.717 (0) Deleting local file: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip: OK
+0110.722 (0) Dropbox: File upload success (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-uploads.zip): 48264 KB in 34s (1409 KB/s)
+0110.948 (0) Dropbox: quota usage: used=656282 MB, total=2108672 MB, available=1452390 MB
+0110.953 (0) Dropbox: Attempt to upload: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-others.zip to: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-others.zip
+0111.995 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAABtMxHD0SklI6JIA, 2461748, 10240 KB)
+0113.528 (0) Recording as successfully uploaded: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-others.zip
+0113.536 (0) Deleting local file: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-others.zip: OK
+0113.539 (0) Dropbox: File upload success (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-others.zip): 2404 KB in 2s (929 KB/s)
+0113.741 (0) Dropbox: quota usage: used=656284.3 MB, total=2108672 MB, available=1452387.7 MB
+0113.745 (0) Dropbox: Attempt to upload: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz to: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz
+0115.170 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAABtM1S25v7F92RLw, 5298780, 10240 KB)
+0116.412 (0) Recording as successfully uploaded: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz
+0116.421 (0) Deleting local file: backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz: OK
+0116.425 (0) Dropbox: File upload success (backup_2020-09-06-2236_Edward_Concepcion_Resume_1b9ecc899d6b-db.gz): 5174 KB in 2s (1931 KB/s)
+0116.442 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=7, retain_db=7
+0116.447 (0) Number of backup sets in history: 8; groups (db): 1
+0116.450 (0) Examining (for databases) backup set with group_id=0, nonce=1b9ecc899d6b, datestamp=1599446190 (Sep 07 2020 02:36:30)
+0116.453 (0) This backup set is the backup set just made, so will not be deleted.
+0116.453 (0) Examining (for databases) backup set with group_id=0, nonce=119e126f829d, datestamp=1599359626 (Sep 06 2020 02:33:46)
+0116.453 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.457 (0) Examining (for databases) backup set with group_id=0, nonce=77f9ffb96a2d, datestamp=1599273134 (Sep 05 2020 02:32:14)
+0116.457 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.458 (0) Examining (for databases) backup set with group_id=0, nonce=7889945d900c, datestamp=1599186725 (Sep 04 2020 02:32:05)
+0116.458 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.458 (0) Examining (for databases) backup set with group_id=0, nonce=bf97243a5376, datestamp=1599100531 (Sep 03 2020 02:35:31)
+0116.458 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.458 (0) Examining (for databases) backup set with group_id=0, nonce=84fdf6cc8188, datestamp=1599014270 (Sep 02 2020 02:37:50)
+0116.458 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.458 (0) Examining (for databases) backup set with group_id=0, nonce=f05936757cec, datestamp=1598927797 (Sep 01 2020 02:36:37)
+0116.458 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.458 (0) Examining (for databases) backup set with group_id=0, nonce=a6990d43d92b, datestamp=1598843984 (Aug 31 2020 03:19:44)
+0116.458 (0) 1598843984: db: this set includes a database (backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-db.gz); db count is now 7
+0116.458 (0) 1598843984: db: over retain limit (7); will delete this database
+0116.458 (0) Delete file: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-db.gz, service=dropbox
+0116.462 (0) Dropbox: request deletion: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-db.gz
+0116.990 (0) Dropbox: deletion succeeded
+0116.997 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0117.000 (0) Number of backup sets in history: 8; groups (files): 1
+0117.003 (0) Examining (for files) backup set with nonce=1b9ecc899d6b, datestamp=1599446190 (Sep 07 2020 02:36:30)
+0117.003 (0) This backup set is the backup set just made, so will not be deleted.
+0117.007 (0) This backup set is the backup set just made, so will not be deleted.
+0117.007 (0) This backup set is the backup set just made, so will not be deleted.
+0117.007 (0) This backup set is the backup set just made, so will not be deleted.
+0117.007 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.011 (0) Examining (for files) backup set with nonce=119e126f829d, datestamp=1599359626 (Sep 06 2020 02:33:46)
+0117.011 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.011 (0) Examining (for files) backup set with nonce=77f9ffb96a2d, datestamp=1599273134 (Sep 05 2020 02:32:14)
+0117.011 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.011 (0) Examining (for files) backup set with nonce=7889945d900c, datestamp=1599186725 (Sep 04 2020 02:32:05)
+0117.011 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.011 (0) Examining (for files) backup set with nonce=bf97243a5376, datestamp=1599100531 (Sep 03 2020 02:35:31)
+0117.011 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.011 (0) Examining (for files) backup set with nonce=84fdf6cc8188, datestamp=1599014270 (Sep 02 2020 02:37:50)
+0117.011 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.012 (0) Examining (for files) backup set with nonce=f05936757cec, datestamp=1598927797 (Sep 01 2020 02:36:37)
+0117.012 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0117.012 (0) Examining (for files) backup set with nonce=a6990d43d92b, datestamp=1598843984 (Aug 31 2020 03:19:44)
+0117.012 (0) plugins: over retain limit (7); will delete this file entity
+0117.012 (0) themes: over retain limit (7); will delete this file entity
+0117.012 (0) uploads: over retain limit (7); will delete this file entity
+0117.012 (0) others: over retain limit (7); will delete this file entity
+0117.012 (0) Delete file: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-plugins.zip, service=dropbox
+0117.015 (0) Delete file: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-themes.zip, service=dropbox
+0117.019 (0) Delete file: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-uploads.zip, service=dropbox
+0117.023 (0) Delete file: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-others.zip, service=dropbox
+0117.027 (0) Dropbox: request deletion: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-plugins.zip
+0117.497 (0) Dropbox: deletion succeeded
+0117.501 (0) Dropbox: request deletion: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-themes.zip
+0118.052 (0) Dropbox: deletion succeeded
+0118.056 (0) Dropbox: request deletion: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-uploads.zip
+0118.749 (0) Dropbox: deletion succeeded
+0118.755 (0) Dropbox: request deletion: backup_2020-08-30-2319_Edward_Concepcion_Resume_a6990d43d92b-others.zip
+0119.373 (0) Dropbox: deletion succeeded
+0119.380 (0) This backup set is now empty; will remove from history
+0119.384 (0) Deleting log file (log.a6990d43d92b.txt)
+0119.387 (0) Retain: saving new backup history (sets now: 7) and finishing retain operation
+0119.397 (0) Resume backup (1b9ecc899d6b, 0): finish run
+0119.409 (0) Decremented the semaphore (fd) by 1
+0119.413 (0) Semaphore (fd) unlocked
+0119.417 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0119.426 (0) No email will/can be sent - the user has not configured an email address.
+0119.430 (0) The backup apparently succeeded and is now complete

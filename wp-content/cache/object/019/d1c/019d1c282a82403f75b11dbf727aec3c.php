@@ -1,0 +1,1 @@
+òmb<?php exit; ?>a:1:{s:7:"content";s:202:"a:6:{s:7:"on_sale";b:0;s:5:"price";s:3:"$60";s:9:"video_url";s:43:"https://www.youtube.com/watch?v=XSwWmXmC9Lg";s:13:"avada_version";s:5:"7.4.2";s:13:"bypass_active";b:0;s:10:"legacy_end";i:1621175777;}";}
