@@ -25,12 +25,12 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-### Languages and Tools:
-
 <br />
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion)(https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion&show_icons=true)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
