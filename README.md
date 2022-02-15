@@ -10,29 +10,24 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./svg/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./svg/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./svg/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./svg/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./svg/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./svg/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./svg/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./svg/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./svg/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./svg/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion)(https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion&show_icons=true)
-<br />
-<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
