@@ -29,7 +29,8 @@
 
 <br />
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion)](https://github.com/econcepciomn/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=econcepcion)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
