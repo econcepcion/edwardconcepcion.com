@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./svg/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./svg/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](/econcepcion/edwardconcepcion.com/raw/main/svg/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](/econcepcion/edwardconcepcion.com/raw/main/svg/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./svg/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./svg/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
