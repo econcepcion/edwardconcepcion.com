@@ -11,9 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-#        localDir: "dist"
-#        remoteDir: "www"
-#        options: "--delete --asci"
+        server: ftp.edwardconcepcion.com
+        username: me@edwardconcepcion.com
+        password: Ra30qGM6N&O9yx2r
